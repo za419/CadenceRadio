@@ -75,35 +75,38 @@ a:active {
 }
 
 /* Set the correct animations */
-#title:nth-child(1) {
+#title span:nth-of-type(1) {
   animation-name: first;
 }
 
-#title:nth-child(2) {
+#title span:nth-of-type(2) {
   animation-name: second;
 }
 
-#title:nth-child(3) {
+#title span:nth-of-type(3) {
   animation-name: third;
 }
 
-#title:nth-child(4) {
+#title span:nth-of-type(4) {
   animation-name: fourth;
 }
 
-#title:nth-child(5) {
+#title span:nth-of-type(5) {
   animation-name: fifth;
 }
 
-#title:nth-child(6) {
+#title span:nth-of-type(6) {
   animation-name: sixth;
 }
 
-#title:nth-child(7) {
+#title span:nth-of-type(7) {
   animation-name: seventh;
 }
 
 @keyframes first {
+  0% {
+    opacity: 0;
+  }
   9% {
     opacity: 0;
   }
@@ -116,9 +119,15 @@ a:active {
   14% {
     opacity: 0.8;
   }
+  100% {
+    opacity: 0.8;
+  }
 }
 
 @keyframes second {
+  0% {
+    opacity: 0;
+  }
   25% {
     opacity: 0;
   }
@@ -131,9 +140,15 @@ a:active {
   30% {
     opacity: 0.8;
   }
+  100% {
+    opacity: 0.8;
+  }
 }
 
 @keyframes third {
+  0% {
+    opacity: 0;
+  }
   39% {
     opacity: 0;
   }
@@ -146,9 +161,15 @@ a:active {
   44% {
     opacity: 0.8;
   }
+  100% {
+    opacity: 0.8;
+  }
 }
 
 @keyframes fourth {
+  0% {
+    opacity: 0;
+  }
   53% {
     opacity: 0;
   }
@@ -161,9 +182,15 @@ a:active {
   58% {
     opacity: 0.8;
   }
+  100% {
+    opacity: 0.8;
+  }
 }
 
 @keyframes fifth {
+  0% {
+    opacity: 0;
+  }
   67% {
     opacity: 0;
   }
@@ -176,9 +203,15 @@ a:active {
   72% {
     opacity: 0.8;
   }
+  100% {
+    opacity: 0.8;
+  }
 }
 
 @keyframes sixth {
+  0% {
+    opacity: 0;
+  }
   81% {
     opacity: 0;
   }
@@ -191,9 +224,15 @@ a:active {
   86% {
     opacity: 0.8;
   }
+  100% {
+    opacity: 0.8;
+  }
 }
 
 @keyframes seventh {
+  0% {
+    opacity: 0;
+  }
   95% {
     opacity: 0;
   }
