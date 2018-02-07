@@ -67,7 +67,25 @@ a:active {
 
 /* Title animation ************************/
 
-/* I, Ryan Hodin, hereby take all blame for the insanity that is this animation code. */
+/* I, Ryan Hodin, hereby take all blame for the insanity that is this animation code.
+Frankly, it's terrible. There are decimal percentages all over the keyframes.
+Allow me to explain.
+A long long time ago, in a commit far far away, I wrote the first part of this
+  animation (where the word "CADENCE" comes in one letter at a time).
+It was exactly 14 seconds long, and each part of the animation was scaled around
+  10% (that is to say, the letters appeared 10% of the animation apart) - Which
+  is to say, 1.4 seconds.
+In order to maintain this timing, when I added the second part (CADENCE
+  blinking), I scaled down the percentages to fit the blinks, then scaled up the
+  duration appropriately.
+This ended up with decimals everywhere. That problem only got worse when I
+  doubled the animation length to accomodate the second phase of the animation.
+  One decimal disappeared when I rounded off the total duration, thus slowing the
+  animation by about 1%. The rest persist.
+Add in the tricks to make the transitions appear pretty much instant, and we get
+  a huge mess of code.
+That's my excuse, and I'm sticking to it. */
+
 
 /* Controls animation length */
 #title span {
