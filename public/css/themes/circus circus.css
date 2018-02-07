@@ -69,7 +69,7 @@ a:active {
 
 /* Controls animation length */
 #title span {
-  animation-duration: 16.28s;
+  animation-duration: 32.56s;
   animation-play-state: running;
   animation-timing-function: ease-in-out;
   animation-iteration-count: infinite;
@@ -109,49 +109,49 @@ a:active {
   0% {
     opacity: 0;
   }
+  2.15% {
+    opacity: 0;
+  }
+  2.58% {
+    opacity: 1;
+  }
+  3.44% {
+    opacity: 1;
+  }
   4.3% {
-    opacity: 0;
-  }
-  5.16% {
-    opacity: 1;
-  }
-  6.88% {
-    opacity: 1;
-  }
-  8.6% {
     opacity: 0.8;
   }
-  80.84% {
+  40.42% {
     opacity: 0.8;
   }
-  81.9% {
+  40.95% {
     opacity: 0.8
   }
-  82% {
+  41% {
     opacity: 0;
   }
-  87.4% {
+  43.7% {
     opacity: 0;
   }
-  87.5% {
+  43.75% {
     opacity: 0.8;
   }
-  92.9% {
+  46.45% {
     opacity: 0.8
   }
-  93% {
+  46.5% {
     opacity: 0;
   }
-  94.9% {
+  47.45% {
     opacity: 0;
   }
-  95% {
+  47.5% {
     opacity: 0.8;
   }
-  99.9% {
+  49.5% {
     opacity: 0.8;
   }
-  100% {
+  50% {
     opacity: 0;
   }
 }
@@ -160,49 +160,49 @@ a:active {
   0% {
     opacity: 0;
   }
-  16.34% {
+  8.19% {
     opacity: 0;
   }
-  17.2% {
+  8.6% {
     opacity: 1;
   }
-  18.92% {
+  9.46% {
     opacity: 1;
   }
-  20.64% {
+  10.32% {
     opacity: 0.8;
   }
-  80.84% {
+  40.42% {
     opacity: 0.8;
   }
-  81.9% {
+  40.95% {
     opacity: 0.8
   }
-  82% {
+  41% {
     opacity: 0;
   }
-  87.4% {
+  43.7% {
     opacity: 0;
   }
-  87.5% {
+  43.75% {
     opacity: 0.8;
   }
-  92.9% {
+  46.45% {
     opacity: 0.8
   }
-  93% {
+  46.5% {
     opacity: 0;
   }
-  94.9% {
+  47.45% {
     opacity: 0;
   }
-  95% {
+  47.5% {
     opacity: 0.8;
   }
-  99.9% {
+  49.5% {
     opacity: 0.8;
   }
-  100% {
+  50% {
     opacity: 0;
   }
 }
@@ -211,49 +211,49 @@ a:active {
   0% {
     opacity: 0;
   }
-  28.38% {
+  14.19% {
     opacity: 0;
   }
-  29.24% {
+  14.62% {
     opacity: 1;
   }
-  30.96% {
+  15.49% {
     opacity: 1;
   }
-  32.68% {
+  16.34% {
     opacity: 0.8;
   }
-  80.84% {
+  40.42% {
     opacity: 0.8;
   }
-  81.9% {
+  40.95% {
     opacity: 0.8
   }
-  82% {
+  41% {
     opacity: 0;
   }
-  87.4% {
+  43.7% {
     opacity: 0;
   }
-  87.5% {
+  43.75% {
     opacity: 0.8;
   }
-  92.9% {
+  46.45% {
     opacity: 0.8
   }
-  93% {
+  46.5% {
     opacity: 0;
   }
-  94.9% {
+  47.45% {
     opacity: 0;
   }
-  95% {
+  47.5% {
     opacity: 0.8;
   }
-  99.9% {
+  49.5% {
     opacity: 0.8;
   }
-  100% {
+  50% {
     opacity: 0;
   }
 }
@@ -262,49 +262,49 @@ a:active {
   0% {
     opacity: 0;
   }
+  20.21% {
+    opacity: 0;
+  }
+  20.64% {
+    opacity: 1;
+  }
+  21.5% {
+    opacity: 1;
+  }
+  22.37% {
+    opacity: 0.8;
+  }
   40.42% {
-    opacity: 0;
-  }
-  41.28% {
-    opacity: 1;
-  }
-  43% {
-    opacity: 1;
-  }
-  44.72% {
     opacity: 0.8;
   }
-  80.84% {
-    opacity: 0.8;
-  }
-  81.9% {
+  40.95% {
     opacity: 0.8
   }
-  82% {
+  41% {
     opacity: 0;
   }
-  87.4% {
+  43.7% {
     opacity: 0;
   }
-  87.5% {
+  43.75% {
     opacity: 0.8;
   }
-  92.9% {
+  46.45% {
     opacity: 0.8
   }
-  93% {
+  46.5% {
     opacity: 0;
   }
-  94.9% {
+  47.45% {
     opacity: 0;
   }
-  95% {
+  47.5% {
     opacity: 0.8;
   }
-  99.9% {
+  49.5% {
     opacity: 0.8;
   }
-  100% {
+  50% {
     opacity: 0;
   }
 }
@@ -313,49 +313,49 @@ a:active {
   0% {
     opacity: 0;
   }
-  52.46% {
+  26.23% {
     opacity: 0;
   }
-  53.32% {
+  26.66% {
     opacity: 1;
   }
-  55.04% {
+  27.52% {
     opacity: 1;
   }
-  56.76% {
+  28.38% {
     opacity: 0.8;
   }
-  80.84% {
+  40.42% {
     opacity: 0.8;
   }
-  81.9% {
+  40.95% {
     opacity: 0.8
   }
-  82% {
+  41% {
     opacity: 0;
   }
-  87.4% {
+  43.7% {
     opacity: 0;
   }
-  87.5% {
+  43.75% {
     opacity: 0.8;
   }
-  92.9% {
+  46.45% {
     opacity: 0.8
   }
-  93% {
+  46.5% {
     opacity: 0;
   }
-  94.9% {
+  47.45% {
     opacity: 0;
   }
-  95% {
+  47.5% {
     opacity: 0.8;
   }
-  99.9% {
+  49.5% {
     opacity: 0.8;
   }
-  100% {
+  50% {
     opacity: 0;
   }
 }
@@ -364,49 +364,49 @@ a:active {
   0% {
     opacity: 0;
   }
-  64.5% {
+  32.25% {
     opacity: 0;
   }
-  65.36% {
+  32.68% {
     opacity: 1;
   }
-  67.08% {
+  33.54% {
     opacity: 1;
   }
-  68.8% {
+  34.4% {
     opacity: 0.8;
   }
-  80.84% {
+  40.42% {
     opacity: 0.8;
   }
-  81.9% {
+  40.95% {
     opacity: 0.8
   }
-  82% {
+  41% {
     opacity: 0;
   }
-  87.4% {
+  43.7% {
     opacity: 0;
   }
-  87.5% {
+  43.75% {
     opacity: 0.8;
   }
-  92.9% {
+  46.45% {
     opacity: 0.8
   }
-  93% {
+  46.5% {
     opacity: 0;
   }
-  94.9% {
+  47.45% {
     opacity: 0;
   }
-  95% {
+  47.5% {
     opacity: 0.8;
   }
-  99.9% {
+  49.5% {
     opacity: 0.8;
   }
-  100% {
+  50% {
     opacity: 0;
   }
 }
@@ -415,46 +415,46 @@ a:active {
   0% {
     opacity: 0;
   }
-  76.54% {
+  38.27% {
     opacity: 0;
   }
-  77.4% {
+  38.7% {
     opacity: 1;
   }
-  79.12% {
+  39.56% {
     opacity: 1;
   }
-  80.84% {
+  40.42% {
     opacity: 0.8;
   }
-  81.9% {
+  40.95% {
     opacity: 0.8
   }
-  82% {
+  41% {
     opacity: 0;
   }
-  87.4% {
+  43.7% {
     opacity: 0;
   }
-  87.5% {
+  43.75% {
     opacity: 0.8;
   }
-  92.9% {
+  46.45% {
     opacity: 0.8
   }
-  93% {
+  46.5% {
     opacity: 0;
   }
-  94.9% {
+  47.45% {
     opacity: 0;
   }
-  95% {
+  47.5% {
     opacity: 0.8;
   }
-  99.9% {
+  49.5% {
     opacity: 0.8;
   }
-  100% {
+  50% {
     opacity: 0;
   }
 }
