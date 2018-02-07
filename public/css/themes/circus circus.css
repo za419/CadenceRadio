@@ -67,6 +67,8 @@ a:active {
 
 /* Title animation ************************/
 
+/* I, Ryan Hodin, hereby take all blame for the insanity that is this animation code. */
+
 /* Controls animation length */
 #title span {
   animation-duration: 32.56s;
