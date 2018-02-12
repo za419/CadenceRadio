@@ -3,6 +3,7 @@
   font-style: normal;
   font-weight: 400;
   src: local('CGAThin'), url('../fonts/PxPlus_IBM_CGAthin.ttf');
+  /* Font downloaded from https://int10h.org/oldschool-pc-fonts/ */
 }
 
 html {
