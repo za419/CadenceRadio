@@ -2,7 +2,7 @@
   font-family: CGAthin;
   font-style: normal;
   font-weight: 400;
-  src: local('CGAThin'), url('../fonts/PxPlus_IBM_CGAthin.ttf');
+  src: local('PxPlus IBM CGAThin'), url('../fonts/PxPlus_IBM_CGAthin.ttf');
   /* Font downloaded from https://int10h.org/oldschool-pc-fonts/ */
 }
 
@@ -27,9 +27,7 @@ body {
 
 #title {
   font-family: 'CGAThin', monospace;
-  letter-spacing: 2px;
   font-weight: 100;
-  font-size: 5em;
   transform: scale(1.8, 2.0) translateY(-.4em);
 }
 
